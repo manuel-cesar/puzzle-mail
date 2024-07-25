@@ -1,0 +1,102 @@
+[
+    {
+    "id": 1,
+    "senderEmail": "alice@example.com",
+    "senderName": "Alice Johnson",
+    "recipient": "user@example.com",
+    "subject": "Meeting Schedule",
+    "body": "Hi, please let me know your availability for the meeting next week.",
+    "time": "09:30",
+    "read": false
+    },
+    {
+    "id": 2,
+    "senderEmail": "bob@example.com",
+    "senderName": "Bob Smith",
+    "recipient": "user@example.com",
+    "subject": "Project Update",
+    "body": "The project is progressing well. We should be on track for the deadline.",
+    "time": "14:15",
+    "read": true
+    },
+    {
+    "id": 3,
+    "senderEmail": "carol@example.com",
+    "senderName": "Carol White",
+    "recipient": "user@example.com",
+    "subject": "Invoice Attached",
+    "body": "Please find attached the invoice for the services rendered last month.",
+    "time": "11:45",
+    "read": false
+    },
+    {
+    "id": 4,
+    "senderEmail": "dave@example.com",
+    "senderName": "Dave Brown",
+    "recipient": "user@example.com",
+    "subject": "Re: Meeting Schedule",
+    "body": "Sure, next week works for me. Let's schedule it for Tuesday.",
+    "time": "10:00",
+    "read": true
+    },
+    {
+    "id": 5,
+    "senderEmail": "eve@example.com",
+    "senderName": "Eve Davis",
+    "recipient": "user@example.com",
+    "subject": "Vacation Plans",
+    "body": "I'll be on vacation from next week. Please reach out to my assistant if you need anything.",
+    "time": "09:00",
+    "read": false
+    },
+    {
+    "id": 6,
+    "senderEmail": "frank@example.com",
+    "senderName": "Frank Harris",
+    "recipient": "user@example.com",
+    "subject": "Weekly Report",
+    "body": "Here is the weekly report you requested.",
+    "time": "17:30",
+    "read": true
+    },
+    {
+    "id": 7,
+    "senderEmail": "grace@example.com",
+    "senderName": "Grace Lewis",
+    "recipient": "user@example.com",
+    "subject": "Client Feedback",
+    "body": "We received positive feedback from the client regarding the recent project.",
+    "time": "15:20",
+    "read": false
+    },
+    {
+    "id": 8,
+    "senderEmail": "heidi@example.com",
+    "senderName": "Heidi Clark",
+    "recipient": "user@example.com",
+    "subject": "Security Alert",
+    "body": "We detected a login attempt from an unrecognized device. Please review your account activity.",
+    "time": "13:05",
+    "read": true
+    },
+    {
+    "id": 9,
+    "senderEmail": "ivan@example.com",
+    "senderName": "Ivan Walker",
+    "recipient": "user@example.com",
+    "subject": "New Feature Release",
+    "body": "We are excited to announce the release of a new feature on our platform.",
+    "time": "12:00",
+    "read": false
+    },
+    {
+    "id": 10,
+    "senderEmail": "judy@example.com",
+    "senderName": "Judy Hall",
+    "recipient": "user@example.com",
+    "subject": "Team Meeting Notes",
+    "body": "Here are the notes from today's team meeting.",
+    "time": "10:30",
+    "read": true
+    }
+]
