@@ -29,44 +29,44 @@
 
 
 <script>
-export default {
-  data() {
-    return {
-      isCollapse: false,
-      activeItem: 'inbox'
-    };
-  },
-  methods: {
-    handleOpen() {
-      console.log('Menu opened');
+  export default {
+    data() {
+      return {
+        isCollapse: false,
+        activeItem: 'inbox'
+      };
     },
-    handleClose() {
-      console.log('Menu closed');
+    methods: {
+      handleOpen() {
+        console.log('Menu opened');
+      },
+      handleClose() {
+        console.log('Menu closed');
+      }
     }
   }
-}
 </script>
 
 
 <style scoped>
-.side-menu {
-  height: 100%;
-  background-color: #f5f5f5;
-  transition: width 0.5s ease;
-}
+  .side-menu {
+    height: 100%;
+    background-color: #f5f5f5;
+    transition: width 0.5s ease;
+  }
 
-.toggle-container {
-  padding: 10px;
-  text-align: center;
-}
+  .toggle-container {
+    padding: 10px;
+    text-align: center;
+  }
 
-.el-menu-item.is-active {
-  color: #fff;
-  background-color: #d8491de0;
-}
+  .el-menu-item.is-active {
+    color: #fff;
+    background-color: #d8491de0;
+  }
 
-.el-menu-item:hover {
-  color: #303133;
-  background-color: #c2975f7c;
-}
+  .el-menu-item:hover {
+    color: #303133;
+    background-color: #c2975f7c;
+  }
 </style>
